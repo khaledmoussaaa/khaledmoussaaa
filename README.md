@@ -22,7 +22,7 @@
 - I'm now looking for an internship or a new work opportunity.
 - [My Resume](https://read.cv/khaledmoussa)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
