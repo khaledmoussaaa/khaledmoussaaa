@@ -12,18 +12,17 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 300px></picture>
 
-
-<p align="left">
 <br>
+
+<picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 300px></picture>
 
 - A dedicated application developer
 - Machine learning developer
 - Currently learning React, NodeJs
 - I'm now looking for an internship or a new work opportunity.
 - [My Resume](https://read.cv/khaledmoussa)
-</p>
+
 <br>
 
 
