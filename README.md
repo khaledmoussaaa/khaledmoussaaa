@@ -18,8 +18,9 @@
 
 - A dedicated application developer
 - Machine learning developer
-- Currently learning React, NodeJs, by self
-- I’m currently open for an Internship or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Currently learning React, NodeJs
+- I'm now looking for an internship or a new work opportunity.
+- [My Resume](https://read.cv/khaledmoussa)
 
 <br><br>
 
