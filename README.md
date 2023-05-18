@@ -13,14 +13,16 @@
 	
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 350px></picture>
 
+
 <br>
-<br>
+
 
 - A dedicated application developer
 - Machine learning developer
 - Currently learning React, NodeJs
 - I'm now looking for an internship or a new work opportunity.
 - [My Resume](https://read.cv/khaledmoussa)
+
 
 <br>
 
