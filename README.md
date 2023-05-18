@@ -17,6 +17,7 @@
 <br>
 
 
+- 
 - A dedicated application developer
 - Machine learning developer
 - Currently learning React, NodeJs
