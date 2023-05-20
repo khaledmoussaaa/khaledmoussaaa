@@ -14,8 +14,7 @@
 
 
 <br>
-
- A dedicated application developer
+- <p>A dedicated application developer</p>
 - Machine learning developer
 - Currently learning React, NodeJs
 - I'm now looking for an internship or a new work opportunity.
