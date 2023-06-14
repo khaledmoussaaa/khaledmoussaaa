@@ -4,7 +4,8 @@
 
 <p align="center">
   <a 
-     href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone;">   </a>
+     href="https://github.com/khaledmoussaaa?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone;">   
+  </a>
 </p>
 
 
@@ -15,20 +16,22 @@
 
 <br>
 
-- A dedicated application developer
-- Machine learning & Deep learning developer
-- Currently learning React, NodeJs
-- I'm now looking for an internship or a new work opportunity.
-- [My Resume](https://read.cv/khaledmoussa)
+<ul>
+<li>A dedicated application developer</li>
+<li>Machine learning & Deep learning developer</li>
+<li>Currently learning React, NodeJs</li>
+<li>I'm now looking for an internship or a new work opportunity.</li>
+<li><a href="https://read.cv/khaledmoussa">My Resume</a></li>
+</ul>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/><b> Skills </b>
 
 <br>
 
-<p align="center">
+<p align="left">
 
 - **Programming Languages**
     
@@ -112,7 +115,14 @@
 <br>
 
 <li>
-<a href="https://instagram.com/khalidmoussaa?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
+<a 
+href="https://instagram.com/khalidmoussaa?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  KhalidMoussaa-%2300acee.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt=Instagram style="margin-bottom: 5px;"/>
+</a>
+	
+<li>
+<a 
+href="mailto:khaledmoussa909@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/instagram:  KhalidMoussaa-%2300acee.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt=Instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
