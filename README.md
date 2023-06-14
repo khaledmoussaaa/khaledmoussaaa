@@ -11,12 +11,12 @@
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**	
-<picture> <img align= "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 300px> </picture>
+<img align= "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 300px>
 
 
 <br>
 
-<ul>
+<ul align="left">
 <li>A dedicated application developer</li>
 <li>Machine learning & Deep learning developer</li>
 <li>Currently learning React, NodeJs</li>
