@@ -14,9 +14,11 @@
 
 <ul align="left">
 	<li> JAN 2023, Bachelor's degree from AOU with a GPA of 3.41. </li>
-	<li>Full-Stack Web Develoepr</li>
-	<li>Backend Laravel</li>
-	<li>Frontend React</li>
+	<li>Full-Stack Developer with expertise in Laravel (backend) and React (frontend)</li>
+	<li>Proficient in modern web development practices and delivering scalable, maintainable solutions</li>
+	<li>Skilled in database structuring, API integrations, and responsive UI/UX design</li>
+	<li>Passionate about leveraging technology to solve real-world problems</li>
+	<li>Committed to continuous learning and improvement in software development</li>
 	<li><a href="https://read.cv/khaledmoussa">My Resume</a></li>
 </ul>
 
