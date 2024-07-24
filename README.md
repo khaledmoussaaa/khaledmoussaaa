@@ -14,8 +14,9 @@
 
 <ul align="left">
 	<li> JAN 2023, Bachelor's degree from AOU with a GPA of 3.41. </li>
-	<li>I have a solid foundation in HTML, CSS, and JavaScript, as well as experience with web frameworks.</li>
-	<li>I'm now looking for an internship or a new work opportunity.</li>
+	<li>Full-Stack Web Develoepr</li>
+	<li>Backend Laravel</li>
+	<li>Frontend React</li>
 	<li><a href="https://read.cv/khaledmoussa">My Resume</a></li>
 </ul>
 
@@ -25,7 +26,6 @@
 <p align="left">
 
 - **Programming Languages**
-
 	![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
     	![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
     	![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
