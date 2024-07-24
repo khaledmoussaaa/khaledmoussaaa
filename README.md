@@ -9,7 +9,7 @@
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **About Me**
 <br>
 
-<img align="right" src="https://lottie.host/d23fa7c1-5828-4c1a-897d-0867421e76ac/JIbzop2EeS.lottie" width="300px">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJtc2xqY2hwYXcxMWtwZ2JraGFvcGk5eTRsNmthYXF2MW9nNm0xNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 
 
 <br>
@@ -89,11 +89,8 @@
 <br>
 
 <div align='left'>
-	<a href="https://www.linkedin.com/in/khaled-moussaa" target="_blank">
+	<a href="https://www.linkedin.com/in/khaled-moussaa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin style="margin-bottom: 5px;"/>
-	</a>
-	<a href="https://instagram.com/khaledmousssa?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
-		<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt=Instagram style="margin-bottom: 5px;"/>
 	</a>
 	<a href="https://www.discord.com/channels/@khaledmoussa" target="_blank">
 		<img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt=Discord style="margin-bottom: 5px;"/>
