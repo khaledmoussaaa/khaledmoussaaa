@@ -9,7 +9,9 @@
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **About Me**
 <br>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+<img align="right" src="https://lottie.host/d23fa7c1-5828-4c1a-897d-0867421e76ac/JIbzop2EeS.lottie" width="300px">
+
+
 <br>
 
 <ul align="left">
